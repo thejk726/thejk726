@@ -1,4 +1,4 @@
-# 👋 Hello, I'm [Your Name]
+# 👋 Hello, I'm Thej
 
 I'm a **DevOps Engineer (Fresher)** passionate about automation, cloud technologies, and building reliable systems. My primary focus is on delivering efficient and scalable infrastructure solutions, continuously learning, and improving my skillset.
 
@@ -12,7 +12,6 @@ I'm a **DevOps Engineer (Fresher)** passionate about automation, cloud technolog
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
   <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="NGINX"/>
-  <!-- <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/> -->
   <img src="https://img.shields.io/badge/Helm%20Charts-0F1689?style=for-the-badge&logo=helm&logoColor=white" alt="Helm Charts"/>
 </p>
 
@@ -21,7 +20,6 @@ I'm a **DevOps Engineer (Fresher)** passionate about automation, cloud technolog
 <p align="left">
   <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible"/>
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
- <!-- <img src="https://img.shields.io/badge/GitLab%20CI-FCA121?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab CI"/>-->
   <img src="https://img.shields.io/badge/Krakend-000000?style=for-the-badge&logo=krakend&logoColor=white" alt="Krakend"/>
 </p>
 
