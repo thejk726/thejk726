@@ -2,6 +2,8 @@
 
 I'm a **DevOps Engineer (Fresher)** passionate about automation, cloud technologies, and building reliable systems. My primary focus is on delivering efficient and scalable infrastructure solutions, continuously learning, and improving my skillset.
 
+<a href="https://app.daily.dev/thejkiran"><img src="https://api.daily.dev/devcards/v2/LTF9x4BNisAccWbXjA1ZA.png?r=pz0" width="356" alt="Thej Kiran's Dev Card"/></a>
+
 ---
 
 ## 🚀 Skills & Tools
